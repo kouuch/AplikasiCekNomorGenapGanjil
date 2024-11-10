@@ -45,3 +45,4 @@ Aplikasi **Cek Nomor Genap/Ganjil** ini digunakan untuk memeriksa apakah suatu a
 
 ## Screenshot (Opsional)
 
+![t1](https://github.com/user-attachments/assets/42780673-5c5e-4853-adcd-2268fa19cfd0)
